@@ -17,4 +17,4 @@ Hi, I am Alessio Barbieri. Welcome to my personal webpage.
 [Perturbations of Positive Semigroups Factorized via AM- and AL-spaces](https://link.springer.com/article/10.1007/s00028-024-01049-3)
 [The Damped Wave Equation with Acoustic Boundary Conditions and non-locally reacting surfaces](https://link.springer.com/article/10.1007/s00233-022-10319-w)
 
-
+![Profile picture](Foto Irlanda.jpg)
