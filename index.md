@@ -18,7 +18,7 @@ I am Alessio Barbieri and I have a Ph.D. in Mathematics and Modelling earned at 
 
 -[Web of Science](https://www.webofscience.com/wos/author/record/MHQ-0041-2025)
 
--[Orcid](https://orcid.org/my-orcid?orcid=0000-0003-3737-085X)
+-[ORCID](https://orcid.org/my-orcid?orcid=0000-0003-3737-085X)
 
 ## Scientific Activity
 My main research interests are:
