@@ -1,5 +1,5 @@
 # Welcome to my personal website
-
+![Profile picture](assets/images/Foto Irlanda.jpg)
 ## About me
 Hi, I am Alessio Barbieri. Welcome to my personal webpage.
 
@@ -16,5 +16,3 @@ Hi, I am Alessio Barbieri. Welcome to my personal webpage.
 [My Ph.D. Thesis "On Structured Perturbations of Positive Semigroups"](https://ricerca.univaq.it/handle/11697/260600)
 [Perturbations of Positive Semigroups Factorized via AM- and AL-spaces](https://link.springer.com/article/10.1007/s00028-024-01049-3)
 [The Damped Wave Equation with Acoustic Boundary Conditions and non-locally reacting surfaces](https://link.springer.com/article/10.1007/s00233-022-10319-w)
-
-![Profile picture](assets/images/Foto Irlanda.jpg)
