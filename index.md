@@ -4,7 +4,7 @@
 Hi, I am Alessio Barbieri. Welcome to my personal webpage.
 
 ## Resume
-[Download my resume](Curriculum Vitae_Alessio Barbieri.pdf)
+[Curriculum Vitae/Resume](Curriculum Vitae_Alessio Barbieri.pdf)
 
 ## Links
 [Research Gate](https://www.researchgate.net/profile/Alessio-Barbieri-2?ev=hdr_xprf)
