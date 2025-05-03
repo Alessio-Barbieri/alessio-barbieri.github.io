@@ -3,7 +3,7 @@
 ![Profile picture](assets/images/Foto Irlanda.jpg)
 
 ## About me
-Welcome to the personal page of Alessio Barbieri, Ph.D. I have a Ph.D. in Mathematics and Modelling earned at Università degli Studi dell'Aquila (Italy). You can reach me at:
+Hi, I am Alessio Barbieri and welcome to my personal page. I have a Ph.D. in Mathematics and Modelling earned at Università degli Studi dell'Aquila (Italy). You can reach me at:
 - [alessiobar95@outlook.it](mailto:alessiobar95@outlook.it)
 - [alessio.barbieri@graduate.univaq.it](mailto:alessio.barbieri@graduate.univaq.it) valid until August 2025
 - [alessio.barbieri@unitus.it](mailto:alessio.barbieri@unitus.it)
@@ -21,4 +21,12 @@ Welcome to the personal page of Alessio Barbieri, Ph.D. I have a Ph.D. in Mathem
 -[Orcid](https://orcid.org/my-orcid?orcid=0000-0003-3737-085X)
 
 ## Scientific Papers
+My main research interests are:
+- Semigroup Theory,
+- Infinite-dimensional control systems,
+- Functional Analysis,
+- Operator Theory,
+- PDEs
+
+Here you can find my research papers.
 [Scientific Papers](papers.md)
