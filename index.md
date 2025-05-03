@@ -1,4 +1,4 @@
-#Welcome to my personal website
+# Welcome to my personal website
 
-##About me
+## About me
 Hi, I am Alessio Barbieri. Welcome to my personal webpage.
