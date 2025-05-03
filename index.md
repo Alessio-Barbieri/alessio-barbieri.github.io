@@ -20,7 +20,7 @@ I am Alessio Barbieri and I have a Ph.D. in Mathematics and Modelling earned at 
 
 -[Orcid](https://orcid.org/my-orcid?orcid=0000-0003-3737-085X)
 
-## Scientific Papers
+## Scientific Activity
 My main research interests are:
 - Semigroup Theory,
 - Infinite-dimensional control systems,
@@ -29,3 +29,7 @@ My main research interests are:
 - PDEs
 
 Here you can find my [Research Papers](papers.md)
+
+## Teaching Activity
+
+[Teaching Activity](teaching.md)
