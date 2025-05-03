@@ -1,7 +1,12 @@
 # Welcome to my personal website
+
 ![Profile picture](assets/images/Foto Irlanda.jpg)
+
 ## About me
-Hi, I am Alessio Barbieri. Welcome to my personal webpage.
+Hi, I am Alessio Barbieri. Welcome to my personal webpage. You can reach me at:
+- [alessiobar95@outlook.it](mailto:alessiobar95@outlook.it)
+- [alessio.barbieri@graduate.univaq.it](mailto:alessio.barbieri@graduate.univaq.it) valid until August 2025
+- [alessio.barbieri@unitus.it](mailto:alessio.barbieri@unitus.it)
 
 ## Resume
 [Curriculum Vitae/Resume](Curriculum Vitae_Alessio Barbieri.pdf)
