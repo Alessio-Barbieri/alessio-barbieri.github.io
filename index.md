@@ -1,9 +1,9 @@
-# Alessio Barbieri, Ph.D. in Mathematics
+# Alessio Barbieri, Ph.D.
 
 ![Profile picture](assets/images/Foto Irlanda.jpg)
 
 ## About me
-Hi, I am Alessio Barbieri and welcome to my personal webpage. I have a Ph.D. in Mathematics and Modelling earned at Università degli Studi dell'Aquila (Italy). You can reach me at:
+I am Alessio Barbieri and I have a Ph.D. in Mathematics and Modelling earned at [Dipartimento di Ingegneria, Scienze dell'Informazione e Matematica](https://www.disim.univaq.it/), Università degli Studi dell'Aquila (Italy), under the supervision of Prof. Klaus- Jochen Engel. You can reach me at:
 - [alessiobar95@outlook.it](mailto:alessiobar95@outlook.it)
 - [alessio.barbieri@graduate.univaq.it](mailto:alessio.barbieri@graduate.univaq.it) valid until August 2025
 - [alessio.barbieri@unitus.it](mailto:alessio.barbieri@unitus.it)
