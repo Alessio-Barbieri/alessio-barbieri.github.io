@@ -21,4 +21,4 @@ Welcome to the personal page of Alessio Barbieri, Ph.D. I have a Ph.D. in Mathem
 -[Orcid](https://orcid.org/my-orcid?orcid=0000-0003-3737-085X)
 
 ## Scientific Papers
-[Scienfic Papers](papers.md)
+[Scientific Papers](papers.md)
