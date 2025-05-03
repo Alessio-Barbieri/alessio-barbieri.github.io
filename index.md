@@ -28,5 +28,4 @@ My main research interests are:
 - Operator Theory,
 - PDEs
 
-Here you can find my research papers.
-[Scientific Papers](papers.md)
+Here you can find my [Research Papers](papers.md)
