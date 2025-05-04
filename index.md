@@ -32,4 +32,4 @@ Here you can find my [Research Papers](papers.md)
 
 ## Teaching Activity
 
-["Matematica" per Scienze Biologiche e Ambientali, Università della Tuscia](teaching.md)
+["Matematica" per Scienze Biologiche Ambientali, Università della Tuscia](teaching.md)
