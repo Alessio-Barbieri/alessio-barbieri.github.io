@@ -9,6 +9,6 @@
 - Sesta settimana: [Appunti](Lezioni 14,15,16.pdf), [Esercizi](Soluzioni esercizi equazioni differenziali.pdf),
 
 ## Esami fac-simile
-- [Prova 1](Compito di prova 1.pdf), [Soluzione](Soluzioni compiti di prova-3-8.pdf)
-- [Prova 2](Compito di prova 2.pdf), [Soluzione](Soluzioni compiti di prova-11-15.pdf)
-- [Prova 3](Compito di prova 3.pdf), [Soluzione](Soluzioni compiti di prova-18-22.pdf)
+- Prova fac-simile 1: [Testo](Compito di prova 1.pdf), [Soluzione](Soluzioni compiti di prova-3-8.pdf)
+- Prova fac-simile 2: [Testo](Compito di prova 2.pdf), [Soluzione](Soluzioni compiti di prova-11-15.pdf)
+- Prova fac-simile 3: [Testo](Compito di prova 3.pdf), [Soluzione](Soluzioni compiti di prova-18-22.pdf)
