@@ -1,10 +1,10 @@
 # Appunti del Corso
 
 ## Argomenti ed esercizi
-- Prima settimana: [Appunti](Lezione 1.pdf), [Esercizi](Soluzioni esercizi funzioni.pdf)
-- Seconda settimana: [Appunti](Lezioni 2,3,4.pdf), [Esercizi](Soluzioni esercizi limiti e funzioni continue.pdf),
-- Terza settimana: [Appunti](Lezioni 5,6,7.pdf), [Esercizi](Soluzioni esercizi limiti e derivate.pdf),
-- Quarta settimana: [Appunti](Lezioni 8,9,10.pdf), [Esercizi](Soluzioni esercizi limiti e funzioni continue.pdf),
+- Prima settimana: [Appunti](Lezione 1.pdf),
+- Seconda settimana: [Appunti](Lezioni 2,3,4.pdf), [Esercizi](Soluzioni esercizi funzioni.pdf),
+- Terza settimana: [Appunti](Lezioni 5,6,7.pdf), [Esercizi](Soluzioni esercizi limiti e funzioni continue.pdf),
+- Quarta settimana: [Appunti](Lezioni 8,9,10.pdf), [Esercizi](Soluzioni esercizi limiti e derivate.pdf),
 - Quinta settimana: [Appunti](Lezioni 11,12,13.pdf), [Esercizi](Soluzioni esercizi derivate e integrali.pdf),
 - Sesta settimana: [Appunti](Lezioni 14,15,16.pdf), [Esercizi](Soluzioni esercizi equazioni differenziali.pdf),
 
