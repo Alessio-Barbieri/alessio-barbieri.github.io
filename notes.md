@@ -1,7 +1,7 @@
 # Appunti del Corso
 
 ## Argomenti ed esercizi
-- [Prima settimana: appunti](Lezione 1.pdf), [Esercizi](),
+- [Prima settimana: appunti](Lezione 1.pdf),
 - [Seconda settimana: appunti](), [Esercizi](),
 - [Terza settimana: appunti](), [Esercizi](),
 - [Quarta settimana: appunti](), [Esercizi](),
